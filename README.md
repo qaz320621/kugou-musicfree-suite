@@ -119,6 +119,20 @@
 
 ---
 
+## 💖 赞赏支持
+
+如果这个项目对你有帮助，欢迎赞赏支持一下，你的鼓励是我持续维护的动力 ☕️
+
+<p align="center">
+  <img src="./sponsor/mm_reward.png" alt="微信赞赏码" width="240" />
+</p>
+
+<p align="center">
+  微信扫一扫，请作者喝杯咖啡 ❤️
+</p>
+
+---
+
 ## 📄 许可证
 
 [MIT](./LICENSE)
