@@ -111,11 +111,11 @@
 
 ## 📦 子项目
 
-| 子项目 | 说明 | 技术栈 |
-|---|---|---|
-| [kugou-musicfree-plugin](https://github.com/qaz320621/kugou-musicfree-plugin) | MusicFree 插件：搜索/播放/歌词 | TypeScript + Parcel |
-| [kugou-token-server-pc](https://github.com/qaz320621/kugou-token-server-pc) | PC 扫码登录 Token 服务 | Python + qrcode |
-| [kugou-token-server-android](https://github.com/qaz320621/kugou-token-server-android) | Android 扫码登录 Token 服务 | Java + NanoHTTPD + ZXing |
+| 子项目 | 说明 | 技术栈 | 最新版 |
+|---|---|---|---|
+| [kugou-musicfree-plugin](https://github.com/qaz320621/kugou-musicfree-plugin) | MusicFree 插件：搜索/播放/歌词 | TypeScript + Parcel | ![release](https://img.shields.io/github/v/release/qaz320621/kugou-musicfree-plugin) |
+| [kugou-token-server-pc](https://github.com/qaz320621/kugou-token-server-pc) | PC 扫码登录 Token 服务 | Python + qrcode | ![release](https://img.shields.io/github/v/release/qaz320621/kugou-token-server-pc) |
+| [kugou-token-server-android](https://github.com/qaz320621/kugou-token-server-android) | Android 扫码登录 Token 服务 | Java + NanoHTTPD + ZXing | ![release](https://img.shields.io/github/v/release/qaz320621/kugou-token-server-android) |
 
 ---
 
